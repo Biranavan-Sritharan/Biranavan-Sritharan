@@ -1,4 +1,6 @@
-## Hi there 👋
+Software Engineer <br/>
+
+Find me on LinkedIn --> www.linkedin.com/in/biranavans <--
 
 <!--
 **Biranavan-Sritharan/Biranavan-Sritharan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
