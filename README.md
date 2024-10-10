@@ -1,6 +1,6 @@
 Software Engineer <br/>
 
-Find me on LinkedIn --> www.linkedin.com/in/biranavans <--
+Find me on LinkedIn --> www.linkedin.com/in/biranavans <-- <br/>
 Or check out my Portfolio here --> https://biranavan-portfolio.netlify.app/ <--
 
 <!--
